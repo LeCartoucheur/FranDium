@@ -1,13 +1,13 @@
 {
-  "name": "helioslauncher",
-  "version": "1.8.0",
-  "productName": "Helios Launcher",
-  "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
+  "name": "frandiumlauncher",
+  "version": "1.7.0",
+  "productName": "FranDium Launcher",
+  "description": "FranDium Launcher",
+  "author": "Daniel Scalzi (https://github.com/dscalzi/) et LeCartoucheur",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/dscalzi/HeliosLauncher",
+  "homepage": "https://github.com/LeCartoucheur/FranDium",
   "bugs": {
-    "url": "https://github.com/dscalzi/HeliosLauncher/issues"
+    "url": "https://github.com/LeCartoucheur/FranDium/issues"
   },
   "private": true,
   "main": "index.js",
@@ -45,6 +45,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dscalzi/HeliosLauncher.git"
+    "url": "git+https://github.com/LeCartoucheur/FranDium.git"
   }
 }
