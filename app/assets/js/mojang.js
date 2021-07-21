@@ -228,6 +228,7 @@ exports.invalidate = function(accessToken, clientToken){
                     } else {
                         reject(body)
                     }
+                    
                 }
             })
     })
